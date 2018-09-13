@@ -1,2 +1,2 @@
-# turquoise
-projet mmi2A un monde de couleur
+# turquoise.github.io
+Projet un monde en couleurs - mmi 2A
